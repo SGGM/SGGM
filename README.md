@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Python](https://simpleicons.org/icons/python.svg)
+![Django](https://simpleicons.org/icons/django.svg)
+![FastAPI](https://simpleicons.org/icons/fastapi.svg)
+![Docker](https://simpleicons.org/icons/docker.svg)
+![Golang](https://simpleicons.org/icons/goland.svg)
