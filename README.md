@@ -1,6 +1,6 @@
-<h3 align="center">Hi there 👋</h3> Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+for+the+win)](https://git.io/typing-svg)
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+for+the+win)](https://git.io/typing-svg)</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SGGM&hide=TypeScript)](https://github.com/SGGM/github-readme-stats)
 
