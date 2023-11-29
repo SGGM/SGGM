@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h2 align="center" link="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+for+the+win">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+for+the+win)](https://git.io/typing-svg)</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+for+the+win)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SGGM&hide=TypeScript)](https://github.com/SGGM/github-readme-stats)
 
