@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+for+the+win)](https://git.io/typing-svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SGGM)](https://github.com/SGGM/github-readme-stats)
+
 <!--
 **SGGM/SGGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
